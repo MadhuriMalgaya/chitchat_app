@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040126928583",
+    "project_id": "flutter-chatting-app-f8259",
+    "storage_bucket": "flutter-chatting-app-f8259.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040126928583:android:2d1a1b495889c8bbe500e2",
+        "android_client_info": {
+          "package_name": "com.example.chitchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD4F-yJyHuLnGmi4cImDQYZ0_GwzXzbQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
