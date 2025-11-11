@@ -11,6 +11,6 @@ class WelcomePageString {
 }
 
 class zegoCloudConfig {
-  static const appId = 1053409823;
-  static const appSign = "42cc0e47e661876fbcbd6b48cdbb8e78df59a9e8dabc012ed4d0a337a74dd6eb";
+  static const appId = "";
+  static const appSign = "";
 }
